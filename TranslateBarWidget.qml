@@ -68,7 +68,7 @@ BarWidget {
     id: button
     anchors.fill: parent
     bar: root.bar
-    text: "\uDB80\uDE79" // nf-md-translate (U+F0279)
+    text: "\uf0e6" // nf-fa-globe; flat and legible at bar size, unlike U+F0279
     tooltipText: root.tooltip
 
     onPressed: function(b) {
