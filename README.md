@@ -76,7 +76,7 @@ instead of buffered.
 
 ## Bar icon
 
-The plugin can also put a translate icon in your bar. Left-click translates the
+The plugin can also put a globe icon in your bar. Left-click translates the
 current selection — the same path the hotkey takes — and the tooltip shows the
 hotkey that is actually bound. Right-click takes the icon off the bar again.
 
